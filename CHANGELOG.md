@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.1.0-alpha.12 (2021-04-10)
+
+
+### Bug Fixes
+
+* **core:** change in customer service ([0209722](https://github.com/shishirkh/lerna-tuts/commit/0209722064151e8df20d4918db07b7a9d361fd83))
+
+
+### Features
+
+* **core:** add frontend to lerna management ([7a94c81](https://github.com/shishirkh/lerna-tuts/commit/7a94c8194aec494e07525f83dd63c56333fcb472))
+* **core:** changes to customer service ([d74810f](https://github.com/shishirkh/lerna-tuts/commit/d74810fa0d264adb58f259f530b285e1e1747d6e))
+* **core:** changes to frontend ([c9d5639](https://github.com/shishirkh/lerna-tuts/commit/c9d56391f0ae1e411b374e0d3d2271283a69e72a))
+
+
+
+
+
 # [1.1.0-alpha.11](https://github.com/shishirkh/lerna-tuts/compare/master-1.1.0-alpha.10...master-1.1.0-alpha.11) (2021-04-10)
 
 **Note:** Version bump only for package root
