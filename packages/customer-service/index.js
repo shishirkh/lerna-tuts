@@ -5,7 +5,7 @@ const app=express();
 app.get('/',(req,res)=>{
     res.send("I am a customer API server");
 })
-
+//
 app.listen(port,(err)=>{
     if(err){
         console.log(`Error: ${err.message}`);
